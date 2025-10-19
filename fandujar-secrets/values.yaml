@@ -1,0 +1,19 @@
+opaqueSecrets: []
+# - name: secretName
+#   data:
+      # - key: example
+      #   value: mysecret
+
+global:
+  opaqueSecrets: []
+#     - name: env-config
+#       namespace: default
+#       annotations:
+#         "helm.sh/hook": "pre-install"
+#         "helm.sh/hook-weight": "1"
+#         "helm.sh/hook-delete-policy": "hook-failed,before-hook-creation"
+#       data:
+#         "banna": "top"
+#     - name: carol-billing-tls
+#       data:
+#         "top": "non-top"
