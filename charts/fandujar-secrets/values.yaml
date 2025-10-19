@@ -14,6 +14,6 @@ global:
 #         "helm.sh/hook-delete-policy": "hook-failed,before-hook-creation"
 #       data:
 #         "banna": "top"
-#     - name: carol-billing-tls
+#     - name: fandujar-example-tls
 #       data:
 #         "top": "non-top"
