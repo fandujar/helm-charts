@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  fandujar-secrets:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-19T01:51:12.707501847Z"
+    description: A Helm chart for Kubernetes
+    digest: 63e3a9437fa434a0b9a7c7e3e60746391aaeab33b216b1cfe1cb17361d9d458a
+    name: fandujar-secrets
+    type: application
+    urls:
+    - https://github.com/fandujar/helm-charts/releases/download/fandujar-secrets-0.1.2/fandujar-secrets-0.1.2.tgz
+    version: 0.1.2
+generated: "2025-10-19T01:51:12.707513068Z"
