@@ -1,5 +1,38 @@
 apiVersion: v1
 entries:
+  fandujar-autoscale:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-25T18:16:09.704922388Z"
+    description: A Helm chart for Kubernetes
+    digest: 331878e8fc5663bbafb4798072cc51031e211460dfa4290dfd223e024d7af1a5
+    name: fandujar-autoscale
+    type: application
+    urls:
+    - https://github.com/fandujar/helm-charts/releases/download/fandujar-autoscale-0.1.0/fandujar-autoscale-0.1.0.tgz
+    version: 0.1.0
+  fandujar-deployment:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-25T18:16:09.832670704Z"
+    description: A Helm chart for Kubernetes
+    digest: 1987bc8e783dd8f619cdb8c44c29150fd03ad275ad6e5e2611c3c01d018e84ca
+    name: fandujar-deployment
+    type: application
+    urls:
+    - https://github.com/fandujar/helm-charts/releases/download/fandujar-deployment-0.1.0/fandujar-deployment-0.1.0.tgz
+    version: 0.1.0
+  fandujar-ingress:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-10-25T18:16:09.980751627Z"
+    description: A Helm chart for Kubernetes
+    digest: b3f9d634d6da574525986318ccd3f36f84788f69a9c02deee8b963b4f7cf0bbd
+    name: fandujar-ingress
+    type: application
+    urls:
+    - https://github.com/fandujar/helm-charts/releases/download/fandujar-ingress-0.1.0/fandujar-ingress-0.1.0.tgz
+    version: 0.1.0
   fandujar-secrets:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -11,4 +44,4 @@ entries:
     urls:
     - https://github.com/fandujar/helm-charts/releases/download/fandujar-secrets-0.1.2/fandujar-secrets-0.1.2.tgz
     version: 0.1.2
-generated: "2025-10-19T01:51:12.707513068Z"
+generated: "2025-10-25T18:16:09.98075879Z"
