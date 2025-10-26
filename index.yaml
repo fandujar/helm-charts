@@ -14,6 +14,16 @@ entries:
   fandujar-deployment:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2025-10-26T22:02:11.518457519Z"
+    description: A Helm chart for Kubernetes
+    digest: 3367f1e1edab4c5d96c2ab6b5ab854ad42b4679a95f696e57191b3d56b445a6c
+    name: fandujar-deployment
+    type: application
+    urls:
+    - https://github.com/fandujar/helm-charts/releases/download/fandujar-deployment-0.2.0/fandujar-deployment-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2025-10-25T18:16:09.832670704Z"
     description: A Helm chart for Kubernetes
     digest: 1987bc8e783dd8f619cdb8c44c29150fd03ad275ad6e5e2611c3c01d018e84ca
@@ -44,4 +54,4 @@ entries:
     urls:
     - https://github.com/fandujar/helm-charts/releases/download/fandujar-secrets-0.1.2/fandujar-secrets-0.1.2.tgz
     version: 0.1.2
-generated: "2025-10-25T18:16:09.98075879Z"
+generated: "2025-10-26T22:02:11.518471535Z"
